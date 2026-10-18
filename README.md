@@ -13,4 +13,4 @@ An end-to-end data analytics project examining customer demographics, multi-cate
 * **Campaign Response:** PhD holders exhibit the highest campaign acceptance rate despite comprising a smaller segment volume.
 
 ## Dashboard Preview
-![Marketing Dashboard Preview](project 2 data analyst.jpg)
+![Marketing Dashboard Preview](dashboard_screenshot.jpg)
